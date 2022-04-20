@@ -1,0 +1,21 @@
+body{
+
+}
+
+.top-nav{
+    background-color: aqua;
+    height: 5vh;
+}
+
+.logo-place{
+    background-color: aquamarine;
+}
+
+.sidebar{
+    background-color: darkgray;
+    height: 95vh;
+}
+
+.content{
+    background-color: lightslategray;
+}
